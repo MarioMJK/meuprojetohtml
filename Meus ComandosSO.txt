@@ -1,0 +1,5 @@
+cd <caminho> - muda de pasta
+cd.. - volta uma pasta
+dir - visualiza os arquivos e pastas de uma pasta
+seta pra cima e pra baixo - navega nos ultimos comandos executados
+tab com parte do nome da pasta - faz autocompletegi

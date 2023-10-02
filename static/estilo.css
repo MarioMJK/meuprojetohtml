@@ -1,0 +1,86 @@
+body {
+    background: linear-gradient(45deg, #c4e1bf, #cd8d7b, #fbc490, #ffcccc, #e0e0e0, #f9f9f9 );
+    background-size: 300% 300%;
+
+    @media (max-width: 768px) {
+      /* Estilos para telas menores que 768px de largura */
+    }
+    
+    @media (min-width: 1200px) {
+      /* Estilos para telas maiores que 1200px de largura */
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+
+       
+  }
+
+
+
+  
+  h1 {
+    color: #333 (231, 62, 62);
+    text-align: center;
+    font-size: 100px;
+    font-family: 'Ruwudu', serif;
+    text-shadow: 2px 20px 10px rgba(0,0,0,0.5);
+       
+  }
+
+
+  
+  
+  p {
+    font-family: verdana;
+    font-size: 10px;
+      }
+
+  .problema {
+    font-size: x-large;
+    color: #00264d; /* Azul mais claro */;
+    text-align: center;
+  }
+
+  .nicho {
+    font-size: x-large;
+    color:  #00264d; /* Azul mais claro */;
+    text-align: center;
+    background-image: linear-gradient(to right, red, yellow);
+    -webkit-background-clip: text;
+    color: transparent;
+    
+    }
+
+
+
+
+  .proposta_de_valor {
+    font-size: x-large;
+    color:  #00264d; /* Azul mais claro */;
+    text-align: center;
+  }
+
+  #ibsem {
+    font-size: x-large;
+    color: #333;
+    text-align: center;
+  }
+
+  @media screen and (max-width: 768px) {
+    section, aside {
+      width: 100%
+      flex-direction: column;
+    }
+  }
+
+  @media screen and (max-width: 600px) {
+    section, aside {
+      width: 100%
+      flex-direction: column;
+    }
+
+  
+  }
